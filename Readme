@@ -1,0 +1,10 @@
+Creating ML Base project called virtual sentimental analysis using machine learning on Google Colab
+This help unlocking photo based sentimental analysis with the help of pretrain gpt 3 model,
+As it is pretrain model So,
+there no need to developing a model just user has to input an image that he want it's sentimental analysis
+
+how it's work
+step 1 : Firstly we import transformer it's a framework of python that is used to transfer the data along with its features
+Step 2 : secondly with the help of the transformer Import it freture and try to connect with the GPT 3 model
+Step 3 : Define the size that the GPT 3 model will accept
+Step 4 : Upload the photo and get the response
